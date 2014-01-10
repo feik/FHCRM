@@ -1,0 +1,1648 @@
+[ 2013-08-19T00:00:26+08:00 ] 127.0.0.1 /Customer/read?_dc=1376841626524&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001484s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001729s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000936s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001027s ]
+SQL: SHOW COLUMNS FROM `xcrm_customer` [ RunTime:0.002788s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_customer` LIMIT 1   [ RunTime:0.000299s ]
+SQL: SELECT * FROM `xcrm_customer` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.000237s ]
+
+[ 2013-08-19T00:00:29+08:00 ] 127.0.0.1 /Customer/read?_dc=1376841629619&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001189s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001392s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000857s ]
+SQL: SHOW COLUMNS FROM `xcrm_customer` [ RunTime:0.002763s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_customer` LIMIT 1   [ RunTime:0.000265s ]
+SQL: SELECT * FROM `xcrm_customer` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.000215s ]
+
+[ 2013-08-19T00:00:32+08:00 ] 127.0.0.1 /Customer/read?_dc=1376841632078&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000901s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001064s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000809s ]
+SQL: SHOW COLUMNS FROM `xcrm_customer` [ RunTime:0.002623s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_customer` LIMIT 1   [ RunTime:0.000275s ]
+SQL: SELECT * FROM `xcrm_customer` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.000274s ]
+
+[ 2013-08-19T00:00:35+08:00 ] 127.0.0.1 /Customer/read?_dc=1376841634890&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000855s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000995s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+SQL: SHOW COLUMNS FROM `xcrm_customer` [ RunTime:0.002592s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_customer` LIMIT 1   [ RunTime:0.000665s ]
+SQL: SELECT * FROM `xcrm_customer` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.000518s ]
+
+[ 2013-08-19T00:00:40+08:00 ] 127.0.0.1 /Customer/read?_dc=1376841639935&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001121s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001296s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+SQL: SHOW COLUMNS FROM `xcrm_customer` [ RunTime:0.002537s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_customer` LIMIT 1   [ RunTime:0.000225s ]
+SQL: SELECT * FROM `xcrm_customer` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.000217s ]
+
+[ 2013-08-19T00:00:42+08:00 ] 127.0.0.1 /Customer/read?_dc=1376841642415&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000843s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001013s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000769s ]
+SQL: SHOW COLUMNS FROM `xcrm_customer` [ RunTime:0.002795s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_customer` LIMIT 1   [ RunTime:0.000225s ]
+SQL: SELECT * FROM `xcrm_customer` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.000183s ]
+
+[ 2013-08-19T00:00:46+08:00 ] 127.0.0.1 /Customer/read?_dc=1376841646402&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000835s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001003s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000761s ]
+SQL: SHOW COLUMNS FROM `xcrm_customer` [ RunTime:0.002499s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_customer` LIMIT 1   [ RunTime:0.000313s ]
+SQL: SELECT * FROM `xcrm_customer` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.000255s ]
+
+[ 2013-08-19T00:00:48+08:00 ] 127.0.0.1 /Customer/read?_dc=1376841648235&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000872s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001007s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000658s ]
+SQL: SHOW COLUMNS FROM `xcrm_customer` [ RunTime:0.002483s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_customer` LIMIT 1   [ RunTime:0.000288s ]
+SQL: SELECT * FROM `xcrm_customer` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.000261s ]
+
+[ 2013-08-19T00:00:50+08:00 ] 127.0.0.1 /Customer/read?_dc=1376841650031&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000870s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001015s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+SQL: SHOW COLUMNS FROM `xcrm_customer` [ RunTime:0.002721s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_customer` LIMIT 1   [ RunTime:0.000239s ]
+SQL: SELECT * FROM `xcrm_customer` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.000202s ]
+
+[ 2013-08-19T00:01:28+08:00 ] 127.0.0.1 /User/read?_dc=1376841688310&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000841s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000978s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000699s ]
+SQL: SHOW COLUMNS FROM `xcrm_user` [ RunTime:0.002485s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_user` LIMIT 1   [ RunTime:0.000277s ]
+SQL: SELECT * FROM `xcrm_user` ORDER BY uid DESC LIMIT 0,25   [ RunTime:0.000249s ]
+
+[ 2013-08-19T00:01:32+08:00 ] 127.0.0.1 /Customer/read?_dc=1376841692678&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000843s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+SQL: SHOW COLUMNS FROM `xcrm_customer` [ RunTime:0.002408s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_customer` LIMIT 1   [ RunTime:0.000270s ]
+SQL: SELECT * FROM `xcrm_customer` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.000251s ]
+
+[ 2013-08-19T00:03:51+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000916s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001050s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008278s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008417s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000600s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000609s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000444s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000715s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002669s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000812s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000929s ]
+
+[ 2013-08-19T00:03:58+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001075s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010461s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010658s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000657s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000694s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000459s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000836s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003055s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000975s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001145s ]
+
+[ 2013-08-19T00:04:00+08:00 ] 127.0.0.1 /Member/doLogin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001943s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002148s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001253s ]
+SQL: SHOW COLUMNS FROM `xcrm_user` [ RunTime:0.002617s ]
+SQL: SELECT `uid` FROM `xcrm_user` WHERE ( `username` = 'admin' ) AND ( `password` = '21232f297a57a5a743894a0e4a801fc3' ) LIMIT 1   [ RunTime:0.000356s ]
+
+[ 2013-08-19T00:04:00+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000734s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010321s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010505s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000676s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000691s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000487s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000769s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002973s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000849s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000968s ]
+
+[ 2013-08-19T00:04:00+08:00 ] 127.0.0.1 /Menu/product?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001807s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002028s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001373s ]
+
+[ 2013-08-19T00:04:00+08:00 ] 127.0.0.1 /Menu/customer?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001997s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002252s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001430s ]
+
+[ 2013-08-19T00:04:00+08:00 ] 127.0.0.1 /Menu/user?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001193s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001330s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000907s ]
+
+[ 2013-08-19T00:04:01+08:00 ] 127.0.0.1 /User/usergroup?_dc=1376841841184&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000799s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000974s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000920s ]
+SQL: SHOW COLUMNS FROM `xcrm_user_group` [ RunTime:0.002807s ]
+SQL: SELECT * FROM `xcrm_user_group`  [ RunTime:0.000337s ]
+
+[ 2013-08-19T00:04:02+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001340s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013054s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013222s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000680s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000622s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000446s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000720s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002769s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000849s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000987s ]
+
+[ 2013-08-19T00:04:03+08:00 ] 127.0.0.1 /Menu/product?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001391s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001626s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000982s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001167s ]
+
+[ 2013-08-19T00:04:03+08:00 ] 127.0.0.1 /Menu/customer?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001142s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000989s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001154s ]
+
+[ 2013-08-19T00:04:03+08:00 ] 127.0.0.1 /Menu/user?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001089s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001314s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001118s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001281s ]
+
+[ 2013-08-19T00:04:03+08:00 ] 127.0.0.1 /User/usergroup?_dc=1376841843553&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001086s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001288s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+SQL: SHOW COLUMNS FROM `xcrm_user_group` [ RunTime:0.002563s ]
+SQL: SELECT * FROM `xcrm_user_group`  [ RunTime:0.000341s ]
+
+[ 2013-08-19T00:04:04+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000936s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001105s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010913s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011091s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001466s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000727s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000469s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000840s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003933s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000953s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001107s ]
+
+[ 2013-08-19T00:04:04+08:00 ] 127.0.0.1 /Menu/product?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001282s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001503s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001133s ]
+
+[ 2013-08-19T00:04:04+08:00 ] 127.0.0.1 /Menu/customer?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001356s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001586s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000979s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001150s ]
+
+[ 2013-08-19T00:04:04+08:00 ] 127.0.0.1 /Menu/user?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001078s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001290s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001254s ]
+
+[ 2013-08-19T00:04:05+08:00 ] 127.0.0.1 /User/usergroup?_dc=1376841845055&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001518s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001728s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000800s ]
+SQL: SHOW COLUMNS FROM `xcrm_user_group` [ RunTime:0.002507s ]
+SQL: SELECT * FROM `xcrm_user_group`  [ RunTime:0.000418s ]
+
+[ 2013-08-19T00:04:36+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007035s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007167s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000461s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000493s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000324s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000647s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002219s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000673s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000781s ]
+
+[ 2013-08-19T00:04:37+08:00 ] 127.0.0.1 /Menu/product?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001246s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001471s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001126s ]
+
+[ 2013-08-19T00:04:37+08:00 ] 127.0.0.1 /Menu/customer?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001529s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001714s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001401s ]
+
+[ 2013-08-19T00:04:37+08:00 ] 127.0.0.1 /Menu/user?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001382s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001605s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001177s ]
+
+[ 2013-08-19T00:04:37+08:00 ] 127.0.0.1 /User/usergroup?_dc=1376841877793&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000991s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001171s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+SQL: SHOW COLUMNS FROM `xcrm_user_group` [ RunTime:0.030203s ]
+SQL: SELECT * FROM `xcrm_user_group`  [ RunTime:0.000762s ]
+
+[ 2013-08-19T00:04:51+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001252s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008818s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000668s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000646s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000472s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000748s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002867s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000922s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001052s ]
+
+[ 2013-08-19T00:04:55+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001456s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009285s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009474s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000477s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000595s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000384s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000683s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002497s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000703s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000822s ]
+
+[ 2013-08-19T00:04:57+08:00 ] 127.0.0.1 /User/usergroup?_dc=1376841897450&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000843s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000979s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000712s ]
+SQL: SHOW COLUMNS FROM `xcrm_user_group` [ RunTime:0.003528s ]
+SQL: SELECT * FROM `xcrm_user_group`  [ RunTime:0.000341s ]
+
+[ 2013-08-19T00:04:57+08:00 ] 127.0.0.1 /Menu/user?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001271s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001510s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001147s ]
+
+[ 2013-08-19T00:04:57+08:00 ] 127.0.0.1 /Menu/product?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001416s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001721s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001139s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001366s ]
+
+[ 2013-08-19T00:04:57+08:00 ] 127.0.0.1 /Menu/customer?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000872s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001012s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000758s ]
+
+[ 2013-08-19T00:05:14+08:00 ] 127.0.0.1 /User/read?_dc=1376841914773&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000872s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001009s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000756s ]
+SQL: SHOW COLUMNS FROM `xcrm_user` [ RunTime:0.003199s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_user` LIMIT 1   [ RunTime:0.000314s ]
+SQL: SELECT * FROM `xcrm_user` ORDER BY uid DESC LIMIT 0,25   [ RunTime:0.000239s ]
+
+[ 2013-08-19T00:05:27+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001089s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011652s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011819s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000602s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000623s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000444s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000717s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002694s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000842s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000961s ]
+
+[ 2013-08-19T00:05:27+08:00 ] 127.0.0.1 /Menu/product?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000873s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001004s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000802s ]
+
+[ 2013-08-19T00:05:27+08:00 ] 127.0.0.1 /Menu/customer?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000821s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000949s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+
+[ 2013-08-19T00:05:27+08:00 ] 127.0.0.1 /Menu/user?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000835s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000965s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+
+[ 2013-08-19T00:05:28+08:00 ] 127.0.0.1 /User/usergroup?_dc=1376841928058&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000929s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001057s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000813s ]
+SQL: SHOW COLUMNS FROM `xcrm_user_group` [ RunTime:0.002453s ]
+SQL: SELECT * FROM `xcrm_user_group`  [ RunTime:0.000265s ]
+
+[ 2013-08-19T00:05:30+08:00 ] 127.0.0.1 /Product/read?_dc=1376841930286&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000870s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001006s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000727s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.003371s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.000314s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.000545s ]
+
+[ 2013-08-19T00:05:50+08:00 ] 127.0.0.1 /User/read?_dc=1376841950414&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000836s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000968s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+SQL: SHOW COLUMNS FROM `xcrm_user` [ RunTime:0.003071s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_user` LIMIT 1   [ RunTime:0.000288s ]
+SQL: SELECT * FROM `xcrm_user` ORDER BY uid DESC LIMIT 0,25   [ RunTime:0.000212s ]
+
+[ 2013-08-19T00:05:54+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000910s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001112s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010159s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010341s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000640s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000669s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000456s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000833s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003003s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000951s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001113s ]
+
+[ 2013-08-19T00:05:55+08:00 ] 127.0.0.1 /Menu/product?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001489s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001732s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001280s ]
+
+[ 2013-08-19T00:05:55+08:00 ] 127.0.0.1 /Menu/customer?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001291s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001510s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001483s ]
+
+[ 2013-08-19T00:05:55+08:00 ] 127.0.0.1 /Menu/user?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000868s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001011s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+
+[ 2013-08-19T00:05:55+08:00 ] 127.0.0.1 /User/usergroup?_dc=1376841955409&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001407s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001587s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000857s ]
+SQL: SHOW COLUMNS FROM `xcrm_user_group` [ RunTime:0.002485s ]
+SQL: SELECT * FROM `xcrm_user_group`  [ RunTime:0.000219s ]
+
+[ 2013-08-19T00:05:57+08:00 ] 127.0.0.1 /Member/doLogout?_dc=1376841957575
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001208s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001417s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001041s ]
+
+[ 2013-08-19T00:05:57+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000849s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007554s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007696s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000529s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000539s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000350s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000582s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002315s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000678s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000795s ]
+
+[ 2013-08-19T00:05:59+08:00 ] 127.0.0.1 /Member/doLogin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000956s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001082s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+SQL: SHOW COLUMNS FROM `xcrm_user` [ RunTime:0.002649s ]
+SQL: SELECT `uid` FROM `xcrm_user` WHERE ( `username` = 'admin' ) AND ( `password` = '21232f297a57a5a743894a0e4a801fc3' ) LIMIT 1   [ RunTime:0.000336s ]
+
+[ 2013-08-19T00:05:59+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000916s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008662s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008850s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000509s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000498s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000356s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000589s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002255s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000690s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000813s ]
+
+[ 2013-08-19T00:06:00+08:00 ] 127.0.0.1 /Menu/product?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000832s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000963s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000713s ]
+
+[ 2013-08-19T00:06:00+08:00 ] 127.0.0.1 /Menu/customer?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001311s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001531s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001109s ]
+
+[ 2013-08-19T00:06:00+08:00 ] 127.0.0.1 /Menu/user?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000863s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000997s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000801s ]
+
+[ 2013-08-19T00:06:01+08:00 ] 127.0.0.1 /User/usergroup?_dc=1376841961045&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000857s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000994s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000757s ]
+SQL: SHOW COLUMNS FROM `xcrm_user_group` [ RunTime:0.002726s ]
+SQL: SELECT * FROM `xcrm_user_group`  [ RunTime:0.000269s ]
+
+[ 2013-08-19T00:06:58+08:00 ] 127.0.0.1 /User/read?_dc=1376842018515&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001393s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001749s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000908s ]
+SQL: SHOW COLUMNS FROM `xcrm_user` [ RunTime:0.002591s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_user` LIMIT 1   [ RunTime:0.000245s ]
+SQL: SELECT * FROM `xcrm_user` ORDER BY uid DESC LIMIT 0,25   [ RunTime:0.000206s ]
+
+[ 2013-08-19T00:07:06+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001143s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009274s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009420s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000593s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000618s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000447s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000712s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002667s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000794s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000906s ]
+
+[ 2013-08-19T00:07:09+08:00 ] 127.0.0.1 /Menu/product?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000939s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001071s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+
+[ 2013-08-19T00:07:09+08:00 ] 127.0.0.1 /Menu/customer?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001173s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001306s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+
+[ 2013-08-19T00:07:09+08:00 ] 127.0.0.1 /Menu/user?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001739s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001991s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001170s ]
+
+[ 2013-08-19T00:07:09+08:00 ] 127.0.0.1 /User/usergroup?_dc=1376842029696&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001220s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001355s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000837s ]
+SQL: SHOW COLUMNS FROM `xcrm_user_group` [ RunTime:0.002741s ]
+SQL: SELECT * FROM `xcrm_user_group`  [ RunTime:0.000267s ]
+
+[ 2013-08-19T00:07:14+08:00 ] 127.0.0.1 /User/read?_dc=1376842034042&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000854s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000992s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001226s ]
+SQL: SHOW COLUMNS FROM `xcrm_user` [ RunTime:0.002562s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_user` LIMIT 1   [ RunTime:0.000211s ]
+SQL: SELECT * FROM `xcrm_user` ORDER BY uid DESC LIMIT 0,25   [ RunTime:0.000185s ]
+
+[ 2013-08-19T00:07:25+08:00 ] 127.0.0.1 /User/read?_dc=1376842045191&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000758s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000876s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000684s ]
+SQL: SHOW COLUMNS FROM `xcrm_user` [ RunTime:0.002380s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_user` LIMIT 1   [ RunTime:0.000265s ]
+SQL: SELECT * FROM `xcrm_user` ORDER BY uid DESC LIMIT 0,25   [ RunTime:0.000249s ]
+
+[ 2013-08-19T00:07:30+08:00 ] 127.0.0.1 /Customer/read?_dc=1376842049938&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000814s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000941s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000711s ]
+SQL: SHOW COLUMNS FROM `xcrm_customer` [ RunTime:0.036080s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_customer` LIMIT 1   [ RunTime:0.000294s ]
+SQL: SELECT * FROM `xcrm_customer` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.000246s ]
+
+[ 2013-08-19T00:07:36+08:00 ] 127.0.0.1 /Product/read?_dc=1376842056458&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000848s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.002690s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.000276s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.000350s ]
+
+[ 2013-08-19T00:07:40+08:00 ] 127.0.0.1 /Product/read?_dc=1376842060502&page=2&start=10&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000983s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001161s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000853s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.003092s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.000362s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 10,10   [ RunTime:0.000376s ]
+
+[ 2013-08-19T00:07:42+08:00 ] 127.0.0.1 /Product/read?_dc=1376842062390&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001005s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001159s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.003348s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.000331s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.000401s ]
+
+[ 2013-08-19T00:07:48+08:00 ] 127.0.0.1 /Product/read?_dc=1376842068843&page=2&start=10&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000904s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001091s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.003023s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.000314s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 10,10   [ RunTime:0.000375s ]
+
+[ 2013-08-19T00:07:50+08:00 ] 127.0.0.1 /Product/read?_dc=1376842070309&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000956s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001128s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000853s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.003103s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.000282s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.000402s ]
+
+[ 2013-08-19T00:10:10+08:00 ] 127.0.0.1 /Product/read?_dc=1376842210214&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001489s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001694s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000984s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001077s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.176247s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.000981s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.001279s ]
+
+[ 2013-08-19T00:10:13+08:00 ] 127.0.0.1 /Product/read?_dc=1376842213182&page=2&start=10&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001151s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001327s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000920s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.025134s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.000320s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 10,10   [ RunTime:0.000330s ]
+
+[ 2013-08-19T00:10:14+08:00 ] 127.0.0.1 /Product/read?_dc=1376842214902&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001020s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001249s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000826s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.002954s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.000346s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.000405s ]
+
+[ 2013-08-19T00:10:26+08:00 ] 127.0.0.1 /Product/read?_dc=1376842225931&page=2&start=10&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001121s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001325s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.003077s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.000311s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 10,10   [ RunTime:0.000377s ]
+
+[ 2013-08-19T00:10:34+08:00 ] 127.0.0.1 /Customer/read?_dc=1376842234726&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001131s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001331s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+SQL: SHOW COLUMNS FROM `xcrm_customer` [ RunTime:0.002596s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_customer` LIMIT 1   [ RunTime:0.000276s ]
+SQL: SELECT * FROM `xcrm_customer` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.000249s ]
+
+[ 2013-08-19T00:21:26+08:00 ] 127.0.0.1 /Product/read?_dc=1376842886518&page=2&start=10&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001504s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001735s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000979s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001072s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.003609s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.000338s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 10,10   [ RunTime:0.000287s ]
+
+[ 2013-08-19T00:21:28+08:00 ] 127.0.0.1 /Product/read?_dc=1376842888629&page=2&start=10&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000930s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001076s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000805s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.002813s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.000229s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 10,10   [ RunTime:0.000262s ]
+
+[ 2013-08-19T00:21:30+08:00 ] 127.0.0.1 /Product/read?_dc=1376842890273&page=2&start=10&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001112s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001281s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000947s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.003008s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.000353s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 10,10   [ RunTime:0.000273s ]
+
+[ 2013-08-19T00:21:32+08:00 ] 127.0.0.1 /Product/read?_dc=1376842891844&page=2&start=10&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001149s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001373s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000949s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.002994s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.000253s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 10,10   [ RunTime:0.000262s ]
+
+[ 2013-08-19T00:21:35+08:00 ] 127.0.0.1 /Product/read?_dc=1376842895142&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001112s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001320s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.003142s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.000369s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.000412s ]
+
+[ 2013-08-19T00:21:39+08:00 ] 127.0.0.1 /Product/read?_dc=1376842899874&page=2&start=10&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000923s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001095s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000952s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.003030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.000371s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 10,10   [ RunTime:0.000350s ]
+
+[ 2013-08-19T00:21:41+08:00 ] 127.0.0.1 /Product/read?_dc=1376842901324&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001150s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001383s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001066s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.003458s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.000305s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.000384s ]
+
+[ 2013-08-19T00:23:03+08:00 ] 127.0.0.1 /Product/read?_dc=1376842983374&page=2&start=10&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001231s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001403s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000921s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.003218s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.000341s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 10,10   [ RunTime:0.000402s ]
+
+[ 2013-08-19T00:23:05+08:00 ] 127.0.0.1 /Product/read?_dc=1376842985163&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001246s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001493s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000882s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000984s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.003262s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.000362s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.000486s ]
+
+[ 2013-08-19T00:23:08+08:00 ] 127.0.0.1 /Product/read?_dc=1376842988329&page=2&start=10&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001128s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001354s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000831s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000924s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.003271s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.000539s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 10,10   [ RunTime:0.000372s ]
+
+[ 2013-08-19T00:23:10+08:00 ] 127.0.0.1 /Product/read?_dc=1376842990187&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001035s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001211s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000903s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.003258s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.000302s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.000353s ]
+
+[ 2013-08-19T00:23:11+08:00 ] 127.0.0.1 /Product/read?_dc=1376842991604&page=2&start=10&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001182s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001357s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000886s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.003162s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.000362s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 10,10   [ RunTime:0.000328s ]
+
+[ 2013-08-19T00:23:13+08:00 ] 127.0.0.1 /Product/read?_dc=1376842993430&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001141s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001364s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.003609s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.002580s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.000458s ]
+
+[ 2013-08-19T00:23:19+08:00 ] 127.0.0.1 /Product/read?_dc=1376842999222&page=2&start=10&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001130s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001328s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.095761s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.000914s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 10,10   [ RunTime:0.001183s ]
+
+[ 2013-08-19T00:53:54+08:00 ] 127.0.0.1 /du/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.066870s ]
+INFO: [ route_check ] --END-- [ RunTime:0.112337s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.010071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010515s ]
+ERR: 无法加载模块:du
+
+[ 2013-08-19T00:53:56+08:00 ] 127.0.0.1 /du/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001077s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001256s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000920s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001058s ]
+ERR: 无法加载模块:du
+
+[ 2013-08-19T00:58:58+08:00 ] 127.0.0.1 /du/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001268s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001401s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+ERR: 无法加载模块:du
+
+[ 2013-08-19T20:22:51+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.058142s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.058674s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.137810s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.137986s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.008634s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.035265s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.078482s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.067500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.190610s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.018383s ]
+INFO: [ view_end ] --END-- [ RunTime:0.018767s ]
+
+[ 2013-08-19T20:22:58+08:00 ] 127.0.0.1 /Member/doLogin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.039979s ]
+INFO: [ route_check ] --END-- [ RunTime:0.040181s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001481s ]
+SQL: SHOW COLUMNS FROM `xcrm_user` [ RunTime:0.674371s ]
+SQL: SELECT `uid` FROM `xcrm_user` WHERE ( `username` = 'admin' ) AND ( `password` = '21232f297a57a5a743894a0e4a801fc3' ) LIMIT 1   [ RunTime:0.266094s ]
+
+[ 2013-08-19T20:22:58+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000833s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008607s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008757s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000554s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000544s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000371s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000685s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002485s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000825s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000948s ]
+
+[ 2013-08-19T20:22:59+08:00 ] 127.0.0.1 /Menu/user?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001369s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001595s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001120s ]
+
+[ 2013-08-19T20:22:59+08:00 ] 127.0.0.1 /Menu/product?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001188s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001323s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000852s ]
+
+[ 2013-08-19T20:22:59+08:00 ] 127.0.0.1 /Menu/customer?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001178s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001311s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000912s ]
+
+[ 2013-08-19T20:23:00+08:00 ] 127.0.0.1 /User/usergroup?_dc=1376914979754&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000918s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001075s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000697s ]
+SQL: SHOW COLUMNS FROM `xcrm_user_group` [ RunTime:0.179903s ]
+SQL: SELECT * FROM `xcrm_user_group`  [ RunTime:0.000481s ]
+
+[ 2013-08-19T20:23:04+08:00 ] 127.0.0.1 /User/read?_dc=1376914983975&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001087s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001257s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000814s ]
+SQL: SHOW COLUMNS FROM `xcrm_user` [ RunTime:0.002732s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_user` LIMIT 1   [ RunTime:0.147799s ]
+SQL: SELECT * FROM `xcrm_user` ORDER BY uid DESC LIMIT 0,25   [ RunTime:0.000855s ]
+
+[ 2013-08-19T20:29:32+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001394s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019724s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019879s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000789s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000652s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000481s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000776s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003006s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000841s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000952s ]
+
+[ 2013-08-19T20:29:34+08:00 ] 127.0.0.1 /Menu/user?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001733s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001955s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001279s ]
+
+[ 2013-08-19T20:29:34+08:00 ] 127.0.0.1 /Menu/customer?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001721s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001934s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001151s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001310s ]
+
+[ 2013-08-19T20:29:34+08:00 ] 127.0.0.1 /Menu/product?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002005s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002224s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001273s ]
+
+[ 2013-08-19T20:29:34+08:00 ] 127.0.0.1 /User/usergroup?_dc=1376915373986&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001200s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001449s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000866s ]
+SQL: SHOW COLUMNS FROM `xcrm_user_group` [ RunTime:0.003430s ]
+SQL: SELECT * FROM `xcrm_user_group`  [ RunTime:0.000337s ]
+
+[ 2013-08-19T20:29:37+08:00 ] 127.0.0.1 /User/read?_dc=1376915377521&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001622s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001817s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001481s ]
+SQL: SHOW COLUMNS FROM `xcrm_user` [ RunTime:0.003066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_user` LIMIT 1   [ RunTime:0.000269s ]
+SQL: SELECT * FROM `xcrm_user` ORDER BY uid DESC LIMIT 0,25   [ RunTime:0.000217s ]
+
+[ 2013-08-19T22:13:33+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.196874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.197508s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.242644s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.243137s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.022396s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.024167s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.066666s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.034472s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.148904s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.029261s ]
+INFO: [ view_end ] --END-- [ RunTime:0.029683s ]
+
+[ 2013-08-19T22:13:39+08:00 ] 127.0.0.1 /Member/doLogin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.023278s ]
+INFO: [ route_check ] --END-- [ RunTime:0.023635s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002880s ]
+SQL: SHOW COLUMNS FROM `xcrm_user` [ RunTime:1.808825s ]
+SQL: SELECT `uid` FROM `xcrm_user` WHERE ( `username` = 'admin' ) AND ( `password` = '21232f297a57a5a743894a0e4a801fc3' ) LIMIT 1   [ RunTime:0.228409s ]
+
+[ 2013-08-19T22:13:39+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000842s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008230s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008390s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000553s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000557s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000396s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000698s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002568s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000788s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000915s ]
+
+[ 2013-08-19T22:13:43+08:00 ] 127.0.0.1 /Menu/user?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001736s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001975s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001196s ]
+
+[ 2013-08-19T22:13:43+08:00 ] 127.0.0.1 /Menu/product?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002063s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002321s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001501s ]
+
+[ 2013-08-19T22:13:43+08:00 ] 127.0.0.1 /User/usergroup?_dc=1376921622961&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001418s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001578s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002993s ]
+SQL: SHOW COLUMNS FROM `xcrm_user_group` [ RunTime:0.045682s ]
+SQL: SELECT * FROM `xcrm_user_group`  [ RunTime:0.000818s ]
+
+[ 2013-08-19T22:13:44+08:00 ] 127.0.0.1 /Menu/customer?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001319s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001467s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004107s ]
+
+[ 2013-08-19T22:18:30+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001462s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.018439s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018617s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000655s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000647s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000483s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000747s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002840s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000851s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000965s ]
+
+[ 2013-08-19T22:18:31+08:00 ] 127.0.0.1 /Menu/sidebar?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001189s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001316s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000842s ]
+ERR: 非法操作:sidebar
+
+[ 2013-08-19T22:18:32+08:00 ] 127.0.0.1 /User/usergroup?_dc=1376921911714&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001344s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001567s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+SQL: SHOW COLUMNS FROM `xcrm_user_group` [ RunTime:0.002458s ]
+SQL: SELECT * FROM `xcrm_user_group`  [ RunTime:0.000318s ]
+
+[ 2013-08-19T22:19:41+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000946s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001087s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.097855s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.098228s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001790s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001783s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001381s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002064s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008041s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002452s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002767s ]
+
+[ 2013-08-19T22:19:44+08:00 ] 127.0.0.1 /Menu/sidebar?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000845s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000981s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000713s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000817s ]
+ERR: 非法操作:sidebar
+
+[ 2013-08-19T22:19:44+08:00 ] 127.0.0.1 /User/usergroup?_dc=1376921984430&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001833s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005085s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001432s ]
+SQL: SHOW COLUMNS FROM `xcrm_user_group` [ RunTime:0.004109s ]
+SQL: SELECT * FROM `xcrm_user_group`  [ RunTime:0.000389s ]
+
+[ 2013-08-19T22:20:45+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001499s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007986s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008155s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000503s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000519s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000342s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000651s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002323s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000959s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001103s ]
+
+[ 2013-08-19T22:20:48+08:00 ] 127.0.0.1 /Menu/sidebar?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001189s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001327s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
+
+[ 2013-08-19T22:20:48+08:00 ] 127.0.0.1 /User/usergroup?_dc=1376922048558&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001876s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002173s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001394s ]
+SQL: SHOW COLUMNS FROM `xcrm_user_group` [ RunTime:0.003152s ]
+SQL: SELECT * FROM `xcrm_user_group`  [ RunTime:0.000288s ]
+
+[ 2013-08-19T22:23:16+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010167s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000608s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000610s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000446s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000722s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002681s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000724s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000825s ]
+
+[ 2013-08-19T22:23:19+08:00 ] 127.0.0.1 /User/usergroup?_dc=1376922199222&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001179s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001317s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000775s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000874s ]
+SQL: SHOW COLUMNS FROM `xcrm_user_group` [ RunTime:0.188579s ]
+SQL: SELECT * FROM `xcrm_user_group`  [ RunTime:0.000853s ]
+
+[ 2013-08-19T22:23:19+08:00 ] 127.0.0.1 /Menu/sidebar?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001175s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001312s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000854s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000955s ]
+
+[ 2013-08-19T22:25:08+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000893s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008061s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008459s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000507s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000477s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001822s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000737s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003911s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000749s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000868s ]
+
+[ 2013-08-19T22:25:11+08:00 ] 127.0.0.1 /User/usergroup?_dc=1376922311457&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.011188s ]
+INFO: [ route_check ] --END-- [ RunTime:0.011329s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000903s ]
+SQL: SHOW COLUMNS FROM `xcrm_user_group` [ RunTime:0.002910s ]
+SQL: SELECT * FROM `xcrm_user_group`  [ RunTime:0.000280s ]
+
+[ 2013-08-19T22:25:11+08:00 ] 127.0.0.1 /Menu/sidebar?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001655s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001831s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001361s ]
+
+[ 2013-08-19T22:26:22+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000872s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009225s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009364s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000675s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000652s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000490s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000750s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002889s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000860s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000973s ]
+
+[ 2013-08-19T22:26:25+08:00 ] 127.0.0.1 /Menu/sidebar?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000922s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001075s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000782s ]
+
+[ 2013-08-19T22:26:25+08:00 ] 127.0.0.1 /User/usergroup?_dc=1376922385357&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001869s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002079s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001504s ]
+SQL: SHOW COLUMNS FROM `xcrm_user_group` [ RunTime:0.003481s ]
+SQL: SELECT * FROM `xcrm_user_group`  [ RunTime:0.000339s ]
+
+[ 2013-08-19T22:27:43+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001145s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008494s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008633s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000682s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000659s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000448s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000749s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002838s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000820s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000932s ]
+
+[ 2013-08-19T22:27:46+08:00 ] 127.0.0.1 /User/usergroup?_dc=1376922466286&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001151s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001285s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000832s ]
+SQL: SHOW COLUMNS FROM `xcrm_user_group` [ RunTime:0.003408s ]
+SQL: SELECT * FROM `xcrm_user_group`  [ RunTime:0.000380s ]
+
+[ 2013-08-19T22:27:46+08:00 ] 127.0.0.1 /Menu/sidebar?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001577s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001812s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001208s ]
+
+[ 2013-08-19T22:29:48+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001071s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008305s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008465s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000688s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000639s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000489s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000766s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002889s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000845s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000955s ]
+
+[ 2013-08-19T22:29:50+08:00 ] 127.0.0.1 /Menu/customer?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001222s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001358s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000923s ]
+
+[ 2013-08-19T22:29:50+08:00 ] 127.0.0.1 /User/usergroup?_dc=1376922590727&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001218s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001354s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000886s ]
+SQL: SHOW COLUMNS FROM `xcrm_user_group` [ RunTime:0.002566s ]
+SQL: SELECT * FROM `xcrm_user_group`  [ RunTime:0.000426s ]
+
+[ 2013-08-19T22:29:50+08:00 ] 127.0.0.1 /Menu/product?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001722s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001921s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001226s ]
+
+[ 2013-08-19T22:29:50+08:00 ] 127.0.0.1 /Menu/user?node=root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000945s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001067s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000711s ]
+
+[ 2013-08-19T22:29:54+08:00 ] 127.0.0.1 /User/read?_dc=1376922593837&page=1&start=0&limit=25
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001125s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001254s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000828s ]
+SQL: SHOW COLUMNS FROM `xcrm_user` [ RunTime:0.085036s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_user` LIMIT 1   [ RunTime:0.294137s ]
+SQL: SELECT * FROM `xcrm_user` ORDER BY uid DESC LIMIT 0,25   [ RunTime:0.000347s ]
+
+[ 2013-08-19T22:30:04+08:00 ] 127.0.0.1 /Product/read?_dc=1376922604088&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000839s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.088764s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.017998s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.001293s ]
+
+[ 2013-08-19T22:30:56+08:00 ] 127.0.0.1 /Customer/read?_dc=1376922656222&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000866s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001008s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+SQL: SHOW COLUMNS FROM `xcrm_customer` [ RunTime:0.129253s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_customer` LIMIT 1   [ RunTime:0.000858s ]
+SQL: SELECT * FROM `xcrm_customer` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.000890s ]
+
+[ 2013-08-19T22:32:51+08:00 ] 127.0.0.1 /Product/read?_dc=1376922771109&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001598s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001797s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001143s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.003534s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.018260s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.000559s ]
+
+[ 2013-08-19T22:38:02+08:00 ] 127.0.0.1 /Product/read?_dc=1376923082764&page=2&start=10&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001728s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001929s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001042s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.003825s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.000361s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 10,10   [ RunTime:0.000566s ]
+
+[ 2013-08-19T22:38:05+08:00 ] 127.0.0.1 /Product/read?_dc=1376923084919&page=1&start=0&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001906s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002171s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001440s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.005456s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.000536s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.000745s ]
+
+[ 2013-08-19T22:38:14+08:00 ] 127.0.0.1 /Product/read?_dc=1376923094577&page=2&start=10&limit=10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002232s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002591s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001754s ]
+SQL: SHOW COLUMNS FROM `xcrm_product` [ RunTime:0.003546s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `xcrm_product` LIMIT 1   [ RunTime:0.000443s ]
+SQL: SELECT * FROM `xcrm_product` ORDER BY id DESC LIMIT 10,10   [ RunTime:0.000499s ]
+

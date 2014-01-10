@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+.system-info{
+	padding:20px;
+}
+.system-info li{
+	clear:both;
+	line-height:22px;
+}
+.system-info .info{
+	float:left;
+	width:150px;
+}
+.system-info .value{
+	margin-left:150px;
+}
