@@ -160,11 +160,27 @@ Ext.define('app.view.product.Edit', {
 			                }]
 			            },
 			            {
-			                xtype: 'htmleditor',
+/*			                xtype: 'htmleditor',
 			                name: 'content',
 			                fieldLabel: '商品描述',
 			                width: 600,
 			                height: 200,
+			                margin: '8 0 8 0'*/
+			                xtype: 'ckeditor',
+			                fieldLabel: '文章内容',
+			                labelAlign: 'left',
+			                name: 'content',
+			                allowBlank: true,
+			                CKConfig: {
+			                	width: 600,
+			                    height: 200,
+			                    //如果选择字体样式等的弹出窗口被当前window挡住，就设置这个为一个较大的值
+			                    baseFloatZIndex: 99999,
+			                    //图片和flash都上传到这里
+			                    filebrowserUploadUrl: '/upload4ckeditor'
+			                },
+			                width: 600,
+			                height: 300,
 			                margin: '8 0 8 0'
 			            }]
 			        }
