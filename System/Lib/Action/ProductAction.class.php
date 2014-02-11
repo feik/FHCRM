@@ -84,12 +84,12 @@ class ProductAction extends Action{
         	$result = json_decode($info);
         	$id = $source['id'] =$result->id;
         	$source['name'] = $result->name;
-        	$source['lastname'] = $result->lastname;
-        	$source['age'] = $result->age;
-        	$source['sid'] = $result->sid;
-        	$source['pid'] = $result->pid;
-        	$source['status'] = $result->status;
-        	$source['picture'] = $result->picture;
+			$source['stock'] = $result->stock;
+			$source['content'] = $result->content;
+			$source['weight'] = $result->weight;
+			$source['p_price'] = $result->p_price;
+			$source['r_price'] = $result->r_price;
+			$source['picture'] = $result->picture;
         	$Product->where("id=$id")->save($source);
         	$data['success'] = true;
         	$data['message'] = '修改成功';
