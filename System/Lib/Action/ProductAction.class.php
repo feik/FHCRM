@@ -102,7 +102,6 @@ class ProductAction extends Action{
         	$this->ajaxReturn($data,'JSON');
         }
 	}
-	
 	//文件上传
 	public function uploadfile(){
 		// Required: anonymous function reference number as explained above.
