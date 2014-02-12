@@ -1,9 +1,6 @@
-Ext.define('Ext.ux.form.CkEditor', {
-	 
+Ext.define('Ext.ux.form.CkEditor', {	 
     extend: 'Ext.form.field.TextArea',
- 
     alias: 'widget.ckeditor',
- 
     onRender : function(ct, position){
         if(!this.el){
             this.defaultAutoCreate = {
