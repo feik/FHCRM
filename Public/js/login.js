@@ -63,10 +63,10 @@ Ext.onReady(function() {
 	                    form.doAction('submit',{
 	                    	waitMsg:'请稍后',
                             waitTitle:'正在验证登录',
-	                    	url: '../Member/doLogin',
+	                    	url: './Member/doLogin',
 	                    	success: function(){
 	                    		win.hide();
-	                    		window.location = '/';
+	                    		window.location = './';
 	                    	},
 	                    	failure: function(form,action){
 	                    		if(action.failureType == 'server'){
